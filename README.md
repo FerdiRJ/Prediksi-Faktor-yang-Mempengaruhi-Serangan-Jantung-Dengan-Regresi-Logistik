@@ -3,6 +3,8 @@ Proyek ini adalah tugas akhir untuk mata kuliah Statistika Inferensial pada seme
 
 Selain itu, proyek ini juga menerapkan **metode stepwise backward** dalam pemilihan fitur untuk meningkatkan performa model. Metode ini dimulai dengan model yang memasukkan semua variabel independen dan secara bertahap menghapus fitur yang kurang signifikan untuk meningkatkan akurasi model akhir.
 
+**Dataset**: [Framingham](https://www.kaggle.com/datasets/navink25/framingham)
+
 ## 🔍 Tujuan Proyek
 
 - **Menganalisis dataset** yang berisi informasi kesehatan pasien untuk mengidentifikasi faktor-faktor yang signifikan dalam memprediksi risiko serangan jantung.
